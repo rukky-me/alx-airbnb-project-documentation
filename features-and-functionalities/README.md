@@ -1,0 +1,1 @@
+This directory contains the features and functionalities of the airbnb projet.
